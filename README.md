@@ -39,11 +39,11 @@ The project includes the following:
 
 ## Files Included
 
-File---------------------------------------- | Description 
-`Superconduct-ML-Project.R`----------------- | Full R script for data analysis & modeling 
-`Supercondut-ML-Project.Rmd`---------------- | RMarkdown report with code, plots, and results
-`Superconduct-ML-Project.pdf`--------------- | Final PDF report exported from RMarkdown
-`superconduct-train-new.csv`---------------- | Kaggle dataset file (tracked locally)
+File : (Description) 
+|`Superconduct-ML-Project.R`  : (Full R script for data analysis & modeling) 
+|`Supercondut-ML-Project.Rmd` : (RMarkdown report with code, plots, and results)
+|`Superconduct-ML-Project.pdf`: (Final PDF report exported from RMarkdown)
+|`superconduct-train-new.csv` : (Kaggle dataset file (tracked locally))
 
 
 
