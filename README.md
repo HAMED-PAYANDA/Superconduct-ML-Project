@@ -5,7 +5,7 @@
 **Superconduct Critical Temprature Prediction using Machine Learning**
 
 ## Dataset
-This project uses the [Superconductivity Dataset] (https://www.kaggle.com/datasets/mespadoto/superconductivty-data) from Kaggle, which contains features describing the properties of superconducting materials and their corresponding critical temperatures. 
+This project uses the [Superconductivity Dataset] (https://www.kaggle.com/datasets/willianoliveiragibin/superconduct-dataset) from Kaggle, which contains features describing the properties of superconducting materials and their corresponding critical temperatures. 
 
 - **File used:** `superconduct-train-new.csv` (27MB, locally stored)
 - **Rows:** 21,263
