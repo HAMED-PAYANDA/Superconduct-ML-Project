@@ -2,7 +2,7 @@
 "Machine learning project using Superconduct dataset from Kaggle"
 
 ## Project Title
-**Superconduct Critical Temprature Prediction using Machine Learning**
+**Superconduct Critical Temperature Prediction using Machine Learning**
 
 ## Dataset
 This project uses the [Superconductivity Dataset] (https://www.kaggle.com/datasets/willianoliveiragibin/superconduct-dataset) from Kaggle, which contains features describing the properties of superconducting materials and their corresponding critical temperatures. 
